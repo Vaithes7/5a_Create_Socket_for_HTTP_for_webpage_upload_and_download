@@ -1,5 +1,4 @@
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/c005b9a6-5e89-4670-8052-1ecae9ef0959" /># 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
-## AIM :
+
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
 
